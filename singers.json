@@ -30,7 +30,7 @@
     "saori": "大西沙織",
     "rin_a": "逢来りん"
   },
-  "charactors": {
+  "characters": {
     "ichigo": "waka",
     "aoi": "fuuri",
     "ran": "yuna",
@@ -116,15 +116,17 @@
     "saori": ["arisia"],
     "rin_a": ["wakaba", "raki"]
   },
-  "star_anis": [
-    "waka", "fuuri", "risuko", "yuna", "remi", "eri", "ruka"
-  ],
-  "aikatsu_stars": [
-    "ruka", "miki", "miho", "nanase", "kana", "sena", "rie"
-  ],
-  "best_friends": [
-    "akane", "ibuki", "karen", "yui", "azusa", "ayaka", "emiri", "yuuki", "youko", "saori", "rin_a"
-  ],
+  "groups": {
+    "star_anis": [
+      "waka", "fuuri", "risuko", "yuna", "remi", "eri", "ruka"
+    ],
+    "aikatsu_stars": [
+      "ruka", "miki", "miho", "nanase", "kana", "sena", "rie"
+    ],
+    "best_friends": [
+      "akane", "ibuki", "karen", "yui", "azusa", "ayaka", "emiri", "yuuki", "youko", "saori", "rin_a"
+    ]
+  },
   "units": {
     "aikatsu": {
       "tri_star": ["mizuki", "kaede", "yurika"],
