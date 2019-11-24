@@ -129,43 +129,223 @@
   },
   "units": {
     "aikatsu": {
-      "tri_star": ["mizuki", "kaede", "yurika"],
-      "soleil": ["ichigo", "aoi", "ran"],
-      "powapowa_puririn": ["otome", "sakura", "sion"],
-      "star_anis": ["mizuki", "ichigo", "aoi", "ran", "otome", "sakura", "yurika", "kaede"],
-      "2wings": ["seira", "ichigo"],
-      "dream_academy": ["seira", "kii", "sora", "maria"],
-      "dream_star": ["ichigo", "aoi", "ran", "otome", "seira", "kii", "sora", "maria"],
-      "wm": ["mizuki", "mikuru"],
-      "aikatsu8_2015": ["mizuki", "mikuru", "ichigo", "otome", "yurika", "seira", "sora", "maria"],
-      "dancing_diva": ["sumire", "rin"],
-      "jounetsu_jarapeno": ["hinaki", "juri"],
-      "skips": ["akari", "madoka"],
-      "ama_fuwa_nadesiko": ["miyabi", "kokone"],
-      "aikatsu8_2016": ["mizuki", "ichigo", "aoi", "ran", "yurika", "sakura", "akari", "sumire"],
-      "luminas": ["akari", "sumire", "hinaki"],
-      "vanilla_chili_pepper": ["juri", "madoka", "rin"],
-      "masquerade": ["orihime", "ringo"]
+      "tri_star": {
+        "members": ["mizuki", "kaede", "yurika"],
+        "name": {
+          "ja": "トライスター",
+          "en": "Tristar"
+        }
+      },
+      "soleil": {
+        "members": ["ichigo", "aoi", "ran"],
+        "name": {
+          "ja": "ソレイユ",
+          "en": "Soleil"
+        }
+      },
+      "powapowa_puririn": {
+        "members": ["otome", "sakura", "sion"],
+        "name": {
+          "ja": "ぽわぽわプリリン",
+          "en": "Powa2xPuRiRiN"
+        }
+      },
+      "star_anis": {
+        "members": ["mizuki", "ichigo", "aoi", "ran", "otome", "sakura", "yurika", "kaede"],
+        "name": {
+          "ja": "スターアニス",
+          "en": "STAR☆ANIS"
+        }
+      },
+      "2wings": {
+        "members": ["seira", "ichigo"],
+        "name": {
+          "ja": "2wingS",
+          "en": "2wingS"
+        }
+      },
+      "dream_academy": {
+        "members": ["seira", "kii", "sora", "maria"],
+        "name": {
+          "ja": "ドリームアカデミー",
+          "en": "Dream Academy"
+        }
+      },
+      "dream_star": {
+        "members": ["ichigo", "aoi", "ran", "otome", "seira", "kii", "sora", "maria"],
+        "name": {
+          "ja": "ドリームスター",
+          "en": "DreamStar"
+        }
+      },
+      "wm": {
+        "members": ["mizuki", "mikuru"],
+        "name": {
+          "ja": "WM",
+          "en": "WM"
+        }
+      },
+      "aikatsu8_2015": {
+        "members": ["mizuki", "mikuru", "ichigo", "otome", "yurika", "seira", "sora", "maria"],
+        "name": {
+          "ja": "アイカツ8（2015）",
+          "en": "Aikatsu8(2015)"
+        }
+      },
+      "dancing_diva": {
+        "members": ["sumire", "rin"],
+        "name": {
+          "ja": "ダンシングディーヴァ",
+          "en": "Dancing Diva"
+        }
+      },
+      "jounetsu_jarapeno": {
+        "members": ["hinaki", "juri"],
+        "name": {
+          "ja": "情熱ハラペーニョ",
+          "en": "Jounetsu Jalapeno"
+        }
+      },
+      "skips": {
+        "members": ["akari", "madoka"],
+        "name": {
+          "ja": "スキップス♪",
+          "en": "Skips♪"
+        }
+      },
+      "ama_fuwa_nadesiko": {
+        "members": ["miyabi", "kokone"],
+        "name": {
+          "ja": "あまふわ☆なでしこ",
+          "en": "Ama-fuwa☆Nadeshiko"
+        }
+      },
+      "aikatsu8_2016": {
+        "members": ["mizuki", "ichigo", "aoi", "ran", "yurika", "sakura", "akari", "sumire"],
+        "name": {
+          "ja": "アイカツ8（2016）",
+          "en": "Aikatsu8(2016)"
+        }
+      },
+      "luminas": {
+        "members": ["akari", "sumire", "hinaki"],
+        "name": {
+          "ja": "ルミナス",
+          "en": "Luminas"
+        }
+      },
+      "vanilla_chili_pepper": {
+        "members": ["juri", "madoka", "rin"],
+        "name": {
+          "ja": "バニラチリペッパー",
+          "en": "Vanilla Chili Pepper"
+        }
+      },
+      "masquerade": {
+        "members": ["orihime", "ringo"],
+        "name": {
+          "ja": "マスカレード",
+          "en": "Masquerade"
+        }
+      }
     },
     "stars": {
-      "s4_25": ["hime", "tsubasa", "yozora", "yuzu"],
-      "s4_26": ["yume", "ako", "mahiru", "yuzu"],
+      "s4_25": {
+        "members": ["hime", "tsubasa", "yozora", "yuzu"],
+        "name": {
+          "ja": "第25代S4",
+          "en": "S4 25th Gen"
+        }
+      },
+      "s4_26": {
+        "members": ["yume", "ako", "mahiru", "yuzu"],
+        "name": {
+          "ja": "第26代S4",
+          "en": "S4 26th Gen"
+        }
+      },
       // "s4_27": ["yume", "ako", "mahiru", "haruka"],
-      "sky_girl": ["mahiru", "yozora", "tsubasa"],
-      "yuzukosho": ["yuzu", "ako", "yume"],
+      "sky_girl": {
+        "members": ["mahiru", "yozora", "tsubasa"],
+        "name": {
+          "ja": "SKY-GIRL",
+          "en": "SKY-GIRL"
+        }
+      },
+      "yuzukosho": {
+        "members": ["yuzu", "ako", "yume"],
+        "name": {
+          "ja": "ゆずこしょう",
+          "en": "Yuzukosho"
+        }
+      },
       // "kanbu-zu": ["lily", "yuri", "katsuramiki"],
-      "venus_ark": ["elza", "rei", "kirara"],
-      "yuzuttolily": ["yuzu", "lily"],
-      "fuwafuwa_dreamer": ["ako", "kirara"],
+      "venus_ark": {
+        "members": ["elza", "rei", "kirara"],
+        "name": {
+          "ja": "ヴィーナスアーク",
+          "en": "Venus Ark"
+        }
+      },
+      "yuzuttolily": {
+        "members": ["yuzu", "lily"],
+        "name": {
+          "ja": "ゆずっとリリィ☆",
+          "en": "Yuzutto Lily"
+        }
+      },
+      "fuwafuwa_dreamer": {
+        "members": ["ako", "kirara"],
+        "name": {
+          "ja": "フワフワドリーマー",
+          "en": "FuwaFuwaDreamer"
+        }
+      },
       // "yuriyuri": ["yuri", "yuriy"],
-      "neo_venus_ark": ["elza", "rei", "kirara", "aria"]
+      "neo_venus_ark": {
+        "members": ["elza", "rei", "kirara", "aria"],
+        "name": {
+          "ja": "ネオ・ヴィーナスアーク",
+          "en": "Neo・Venus Ark"
+        }
+      }
     },
     "friends": {
-      "pure_pallete": ["aine", "mio"],
-      "hony_cat": ["ema", "maika"],
-      "love_me_tear": ["karen", "mirai"],
-      "reflect_moon": ["sakuya", "kaguya"],
-      "i_believe": ["hibiki", "arisia"]
+      "pure_palette": {
+        "members": ["aine", "mio"],
+        "name": {
+          "ja": "ピュアパレット",
+          "en": "PurePalette"
+        }
+      },
+      "honey_cat": {
+        "memberes": ["ema", "maika"],
+        "name": {
+          "ja": "ハニーキャット",
+          "en": "HoneyCat"
+        }
+      },
+      "love_me_tear": {
+        "members": ["karen", "mirai"],
+        "name": {
+          "ja": "ラブミーティア",
+          "en": "Love Me Tear"
+        }
+      },
+      "reflect_moon": {
+        "members": ["sakuya", "kaguya"],
+        "name": {
+          "ja": "リフレクトムーン",
+          "en": "Reflect Moon"
+        }
+      },
+      "i_believe": {
+        "members": ["hibiki", "arisia"],
+        "name": {
+          "ja": "アイビリーブ",
+          "en": "I Believe"
+        }
+      }
     }
   }
 }
